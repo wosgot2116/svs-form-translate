@@ -1,0 +1,19 @@
+{
+  "title": "State 2086 — SVS Form",
+  "eyebrow": "State 2086 · SVS Ministries",
+  "heading": "Read this form in your language",
+  "subheading": "Tap your language below. It opens the form through Google Translate.",
+  "formUrl": "https://forms.gle/uKNnY9J6FMjyvR1u8",
+  "footerNote": "Translations are machine-generated via Google Translate.",
+  "languages": [
+    { "code": "en", "native": "English", "action": "Translate this form" },
+    { "code": "es", "native": "Español", "action": "Traducir este formulario" },
+    { "code": "pt", "native": "Português", "action": "Traduzir este formulário" },
+    { "code": "fr", "native": "Français", "action": "Traduire ce formulaire" },
+    { "code": "tr", "native": "Türkçe", "action": "Bu formu çevir" },
+    { "code": "ru", "native": "Русский", "action": "Перевести эту форму" },
+    { "code": "zh-CN", "native": "中文", "action": "翻译此表格" },
+    { "code": "ko", "native": "한국어", "action": "이 양식 번역하기" },
+    { "code": "ms", "native": "Bahasa Melayu", "action": "Terjemah borang ini" }
+  ]
+}

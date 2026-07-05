@@ -1,0 +1,13 @@
+{
+  "name": "svs-form-translate",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Landing page with Google Translate links for the SVS form",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "npm run build && npx wrangler pages dev dist"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}
