@@ -5,7 +5,8 @@
   "description": "Landing page with Google Translate links for the SVS form",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "preview": "npm run build && npx wrangler pages dev dist"
+    "preview": "npm run build && npx wrangler pages dev dist",
+    "deploy": "npm run build && wrangler deploy"
   },
   "devDependencies": {
     "wrangler": "^4.0.0"
